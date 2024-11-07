@@ -1,0 +1,16 @@
+.result {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.ok {
+  color: color-mix(in srgb, #198754, #ffffff 30%);
+}
+
+.warning {
+  color: color-mix(in srgb, #ffc107, #ffffff 30%);
+}
+
+.danger {
+  color: color-mix(in srgb, #dc3545, #ffffff 30%);
+}
